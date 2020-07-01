@@ -1,0 +1,13 @@
+@font-face {
+  font-family: nes;
+  font-style: normal;
+  font-weight: normal;
+  src: url(fonts/NeoSans-regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: nesb;
+  font-style: normal;
+  font-weight: normal;
+  src: url(fonts/NeoSans-bold.woff) format('woff');
+}
